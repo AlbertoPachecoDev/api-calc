@@ -11,9 +11,12 @@ First prototype: Sept-Dec, 1998
 Versions: March, 1999, Dec, 1999, April, 2000
 
 Based on:
-
 - A. Pacheco, C++ course notes (calc.hpp & calc.cpp), July, 1994.
 - H. Katzan Jr, "Invitation to Forth", , PBI, 1981.
+
+__See article:__ [A. Pacheco, "Plataforma para elaborar Calculadoras Educativas Remotas", CIECE, 1999.](https://www.researchgate.net/publication/263273563_Plataforma_para_elaborar_Calculadoras_Educativas_Remotas)
+
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -		
 Componentes
